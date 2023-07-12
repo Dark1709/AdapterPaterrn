@@ -1,0 +1,3 @@
+## Ejercicio para entender el patron de diseño: 
+
+Con este ejemplo lo que buscaba era entender un poco mejor sobre el patrón de diseño Adapter, así que lo que hará este ejercicio será que al ejecutar la aplicación, se vean las diferentes respuestas de cada objeto. El Adapter permitirá que el cliente utilice el Adaptee a través de la interfaz del Target, ocultando los detalles de la implementación del Adaptee. 
